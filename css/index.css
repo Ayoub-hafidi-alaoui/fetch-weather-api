@@ -1,0 +1,14 @@
+img {
+    width: 100%;
+    width: 20%;
+}
+.background {
+    background-color: #20243e !important;
+}
+.border {
+    border: 1px solid #009ad8 !important;
+    border-radius: 10px;
+    padding: 3px;
+    color: #009ad8 !important;
+}
+
